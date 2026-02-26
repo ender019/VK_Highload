@@ -113,7 +113,7 @@
 
 ## Источники
 
-1.   [Общая информация о сервисе Яндекс Диск](https://disk.yandex.ru/)
+1.   [Общая информация о сервисе Яндекс Диск](https://yandex.ru/support/yandex-360/customers/disk/web/ru/enlarge)
 2.   [Презентация о компании МКПАО «ЯНДЕКС» (3К 2025)](https://yastatic.net/s3/ir-docs/docs/2025/q3/25b90c11d0060d861ec0957dbbb96eeb/3Q25_Supplementary_slides_RUS_bbb9.pdf)
 3.   [Маркетинговый годовой отчет за 2024 год](https://yastatic.net/s3/ir-docs/prospectus/reports/2024/RUS_YANDEX_AR2024.pdf)
 4.   [От десятков до сотен тысяч RPS: как мы создали API, который развивается 10 лет без дропа обратной совместимости](https://habr.com/ru/companies/yandex/articles/839198/)
